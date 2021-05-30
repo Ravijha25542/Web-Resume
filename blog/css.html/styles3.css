@@ -1,0 +1,74 @@
+body{ 
+    background-color: lightcyan;
+    margin: 0;
+}
+.style{
+   text-align: center;
+   margin: 50px auto 0 auto;
+   font-size: 3.625rem;
+   font-family: 'Sacramento', cursive;
+   color:seagreen;
+   }
+   
+p{
+    text-align: center;
+    font-size: 1.625rem;
+    font-weight:bold;
+    color: #66bfbf;
+}
+.cloud1{
+    position: relative;
+    margin-top: 60px;
+    margin-left:60%;
+}
+.cloud2{
+    margin-top: 10px;
+    margin-left:30%;
+} 
+.mountain{
+    
+    margin: 0 auto 50px 30%;
+
+}
+.btn {
+    background: #62c95b;
+    background-image: -webkit-linear-gradient(top, #62c95b, #de68d2);
+    background-image: -moz-linear-gradient(top, #62c95b, #de68d2);
+    background-image: -ms-linear-gradient(top, #62c95b, #de68d2);
+    background-image: -o-linear-gradient(top, #62c95b, #de68d2);
+    background-image: linear-gradient(to bottom, #62c95b, #de68d2);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 20px 30px 20px 30px;
+    text-decoration: none;
+    margin-left: 48%;
+    
+    
+  }
+  
+  .btn:hover {
+    background: #e04638;
+    background-image: -webkit-linear-gradient(top, #e04638, #3498db);
+    background-image: -moz-linear-gradient(top, #e04638, #3498db);
+    background-image: -ms-linear-gradient(top, #e04638, #3498db);
+    background-image: -o-linear-gradient(top, #e04638, #3498db);
+    background-image: linear-gradient(to bottom, #e04638, #3498db);
+    text-decoration: none;
+  }
+  .ravi{
+      width:100%;
+      height: 100px;
+
+      background-color: darkseagreen;
+  }
+  .jha
+  {
+      color: mediumblue;
+  }
+  .jha:hover{
+      color: mintcream;
+  }

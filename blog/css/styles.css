@@ -1,0 +1,23 @@
+body{
+    background-color:aquamarine;
+    margin: 0px;
+}
+hr{
+    border-style:dotted none none;
+    border-width: 6px;
+    border-color:white;
+    width: 10%;
+}
+
+h3{
+    color:green;
+}
+/*
+img{
+    background-color:white;
+}
+
+.cap{
+    background-color:whitesmoke;
+}
+*/
